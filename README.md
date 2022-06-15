@@ -1,2 +1,2 @@
-# Carousel-Practice
-Day 9
+# Bootstrap-Boilerplate
+Starter Template
