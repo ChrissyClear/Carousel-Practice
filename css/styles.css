@@ -41,56 +41,6 @@ ul li:hover {
     padding-left: 50px;
 }
 
-.parallax {
-    /* The image used */
-    background-image: url("../img/photo\ 5\ lake\ in\ mountains.webp");
-
-    /* Set a specific height */
-    min-height: 600px;
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    /* justify-content: space-evenly */
-    justify-content: space-evenly;
-    /* align-items: space-evenly */
-    align-items: center;
-    margin-bottom: 20px;
-    margin-top: 20px;
-}
-
-.text-back {
-    border: 5px solid rgb(13, 202, 240, 0.5);
-    padding: 15px;
-}
-
-/* add sub-sections for each section for each of the 10 beaches  */
-.content {
-    background-color: rgb(39, 11, 39, 0.3);
-    text-align: center;
-    width: 1500px;
-    padding: 50px;
-    height: 800px;
-
-}
-.la-jolla {
-    border: 5px solid rgb(13, 202, 240, 0.5);
-}
-
-h1 {
-    color: rgb(255, 255, 255);
-    text-shadow: 8px 8px rgb(12, 12, 12);
-}
-
-p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    letter-spacing: 2px;
-    font-size: 40px;
-    color: rgb(255, 255, 255);
-}
-
 figcaption {
     text-align: center;
     padding: 5px;
